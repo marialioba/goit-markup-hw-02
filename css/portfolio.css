@@ -12,7 +12,7 @@
   color: #2e2f42;
 }
 
-.port > h3 {
+.port-title {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -21,11 +21,11 @@
   color: #2e2f42;
 }
 
-.port > li > p {
+.port-text {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
 }
