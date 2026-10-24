@@ -5,18 +5,14 @@
 .solu {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 56px;
   line-height: 1.07143;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04em;
   text-align: center;
   color: #fff;
 }
 
 .btn {
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
   max-width: 169px;
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -35,5 +31,5 @@
 }
 .btn:hover,
 .btn:focus {
-  background-color: #188ce8;
+  background-color: #404bbf;
 }

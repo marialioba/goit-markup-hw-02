@@ -1,6 +1,5 @@
 .header {
   background-color: #fff;
-  border-bottom: 1px solid #e5e5e5;
 }
 
 .logo {
@@ -33,12 +32,12 @@
 }
 
 .contacts {
+  font-style: normal;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  opacity: 0.8;
   color: #434455;
 }
 
@@ -46,5 +45,5 @@
 .nav-list:focus,
 .contact-link:hover,
 .contact-link:focus {
-  color: #1565c0;
+  color: #404bbf;
 }

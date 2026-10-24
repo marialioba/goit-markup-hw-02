@@ -21,7 +21,7 @@
   color: #2e2f42;
 }
 
-.port > p {
+.port > li > p {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
